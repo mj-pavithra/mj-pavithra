@@ -1,11 +1,5 @@
-<style>
-  td{
-    display: flex;
-    flex-direction: row;
-  }
-</style>
+ 
 
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Manoj Pavithra</h1>
 <h3 align="center">A pretty agile Full-Stack developer from Sri Lanka 🍵</h3>
 
