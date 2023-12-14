@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java, Python**
 
-- 📫 How to reach me **mjpavithra6520@gmail.com**
+- 📫 To email me  **mjpavithra6520@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ZQ6ZkL9SISwDWNyeMyYyoWzPsTFYvdOR/view?usp=drive_link](https://drive.google.com/file/d/1ZQ6ZkL9SISwDWNyeMyYyoWzPsTFYvdOR/view?usp=drive_link)
 
