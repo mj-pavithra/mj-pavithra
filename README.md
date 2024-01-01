@@ -12,6 +12,7 @@
 - 💬 Ask me about **Java, Python**
 
 - 📫 To email me  **mjpavithra6520@gmail.com**
+- Hire me on Fiverr **https://www.fiverr.com/mj_pavithra?up_rollout=true**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ZQ6ZkL9SISwDWNyeMyYyoWzPsTFYvdOR/view?usp=drive_link](https://drive.google.com/file/d/1ZQ6ZkL9SISwDWNyeMyYyoWzPsTFYvdOR/view?usp=drive_link)
 
