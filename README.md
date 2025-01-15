@@ -7,9 +7,9 @@
 
 <img align="right" width="350px" alt ="coding life" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3k5tT01Tisjq2N1OS45pbnYkdBbrUv9nvIQ&usqp=CAU.gif">
 
-- 🌱 I’m currently learning **Ruby on Rails**
+- 🌱 I’m currently learning **MAD powerd by Flutter**
 
-- 💬 Ask me about **Java, Python**
+- 💬 Ask me about **Java, TypeScript, Dart**
 
 - 📫 To email me  **mjpavithra6520@gmail.com**
 - Hire me on Fiverr **https://www.fiverr.com/mj_pavithra?up_rollout=true**
